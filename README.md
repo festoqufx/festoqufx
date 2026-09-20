@@ -48,7 +48,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/festoqufx/festoqufx/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/festoqufx/festoqufx/snake-output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
