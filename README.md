@@ -39,6 +39,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/festoqufx/festoqufx/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/festoqufx/festoqufx/snake-output/snake.svg" alt="Snake animation" />
