@@ -11,7 +11,7 @@
 
 ###
 
-# 👋 Hi, I'm Ferdinand Estoque
+# 👋 Hi, I'm Ferdinand Estoque   
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&width=435&lines=FRONTEND+DEVELOPER;BACKEND+DEVELOPER;FULLSTACK+DEVELOPER;MULTIMEDIA+ARTIST;UI%2FUX+Designer" />
